@@ -125,6 +125,7 @@
       "properties" : {
         "character-set" : "UTF-8",
         "File Size" : "0B",
+        "generate-ff-custom-text" : "Some Changes",
         "Batch Size" : "1",
         "Unique FlowFiles" : "false",
         "Data Format" : "Text"
@@ -266,6 +267,6 @@
   "snapshotMetadata" : {
     "author" : "0baa43b2-cf26-4225-ae59-caa39bb9ccc2",
     "flowIdentifier" : "MyFlow",
-    "timestamp" : 1758787012246
+    "timestamp" : 1758787604416
   }
 }
